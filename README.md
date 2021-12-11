@@ -1,3 +1,4 @@
 ## Site is Live on 
-https://goggle-search.netlify.app/news
 
+
+https://goggle-search.netlify.app/search
